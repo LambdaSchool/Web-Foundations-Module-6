@@ -247,7 +247,7 @@ saysName(B)`,
   ),
   new Question(
     `
-Whhich PARAMETER will contain the value of the argument "Lambda"?
+Which PARAMETER will contain the value of the argument "Lambda"?
 
 function school(A, B, C, D){
   return "Welcome to School!";
@@ -350,7 +350,7 @@ console.log(name)
   ),
 
   new TrueOrFalseQuestion(
-    "Vaiables declared outside of a function can not be used in a function",
+    "Variables declared outside of a function can not be used in a function",
     "false",
     "As long as the variable was not created in another function, it can be used within a function."
   ),

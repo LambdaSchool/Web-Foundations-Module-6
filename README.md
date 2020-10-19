@@ -55,14 +55,14 @@ The `Try it Out` portion of this project will take place in two parts.
 - This function will take two parameters.
 - This function will return those two parameters added together.
 - When you are complete, make sure to link the `TryIt.js` file in the `index.html` file.
-- After openeing `index.html` in your browser you should see two input boxes and a button at the top of the screen.
+- After opening `index.html` in your browser you should see two input boxes and a button at the top of the screen.
 - You may input any string or number into the boxes and click the button.
 - If your function was written correctly you should see the two items added together and a message.
 - If not, don't stress, go back to the `TryIt.js` file and keep working on the function until the button works!
 
 **Part Two:**
 
-- Now with the beaker full and the file open in your browser, answer the quiz questions. Be sure to pay attention to detail and read the code carefully.
+- Now with your function working correctly and the `index.html` file open in your browser, answer the quiz questions. Be sure to pay attention to detail and read the code carefully.
 - Once you get 28/30 questions correct, the password will appear at the bottom of the screen.
 - You may need to work through the questions multiple times in order to get a passing score. This is by design, the more time you spend reading and analyzing code, the faster you will pick it up!
 
