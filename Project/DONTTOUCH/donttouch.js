@@ -435,7 +435,7 @@ let number = 3;
 function getNumbers(){
   const pi = 3.14;
 
-  return pi;
+  return pi + number;
 }
 
 const sample = getNumbers() + 10`,
